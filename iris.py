@@ -4,5 +4,5 @@ import pandas as pd
 import numpy as np 
 import csv
 import matplotlib.pyplot as plt 
-import scipy sp
+import scipy as sp
 

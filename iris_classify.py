@@ -12,6 +12,10 @@ x_train_arr=[]
 x_test_arr=[]
 y_train_arr=[]
 x_test_arr=[]
-
-for i in file(iris):
+print(x_test)
+for i in iris:
     row = x.split(',')
+    x_train_train.append(float(row[0]))
+    y_train_train.append(float(j) for j in row[1:3])
+
+print(x_train_arr)
